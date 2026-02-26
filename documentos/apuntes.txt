@@ -1,1 +1,6 @@
+rama-conflicto
 hola como estas 
+
+Esta es la versión de la NUBE
+Ejercicio nueve Añadir una nueva carpeta con un fichero desde la interfaz de usuario.
+ main
